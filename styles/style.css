@@ -131,4 +131,9 @@ body {
   .apresentacao__conteudo {
     width: auto;
   }
+
+  .rodape{
+    padding: 36px;
+    text-align:center;
+  }
 }
